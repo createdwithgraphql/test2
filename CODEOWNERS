@@ -1,0 +1,5 @@
+# Global code owners
+* @createdwithgraphql/testers
+
+# Specific file owners
+*.md @createdwithgraphql/testers
